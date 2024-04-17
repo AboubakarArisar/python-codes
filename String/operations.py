@@ -13,7 +13,7 @@ print(d)
 e = len(a)
 print(e)
 
-#indexing
+#indexing 
 f = a[1]
 print(f)
 #in indexing we can not assign the value to the index
